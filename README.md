@@ -23,3 +23,8 @@
 📫 you can contact me at contatozarpela@gmail.com
 (will create a site in the future though)
 </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon"></a>
+</p>
+
