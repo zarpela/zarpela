@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon"></a>
+<a href="https://www.linkedin.com/in/marcelo-zarpelon-64a7a8301/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon"></a>
 </p>
 
