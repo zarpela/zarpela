@@ -9,7 +9,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarpela&layout=compact&theme=dracula&hide=cmake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarpela&layout=compact&theme=dracula&hide=cmake,lua,shell)
 
 
 <p align="center">
